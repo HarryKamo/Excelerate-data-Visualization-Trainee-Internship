@@ -17,13 +17,16 @@ The repository contains my work for Excelerate Data Visualization trainee Intern
 
 ## Tool Used
 
--**Microsoft Excel** - used mainly for data cleaning, data validation, and preliminary exploration of Opportunity dataset.
+**Microsoft Excel** - used mainly for data cleaning, data validation, and preliminary exploration of Opportunity dataset.
 
--**Python 3.15.0** - used for data manipulation, Exploratory Data Analysis, and statistical calculations.
+**Python 3.15.0** - used for data manipulation, Exploratory Data Analysis, and statistical calculations.
 
--**Visual Studio (VS Code)** - the main coding enviroment for devoloping and running the analysis.
+**Visual Studio (VS Code)** - the main coding enviroment for devoloping and running the analysis.
 
--**Jupyter Notebook** - used to document the analysis workflow, combine code with explanations, and genrate outputs.
+**Jupyter Notebook** - used to document the analysis workflow, combine code with explanations, and genrate outputs.
 
--**Libraries** - *Pandas*(for data cleaning, transformation, aggregation, and analysis of dataset), *Numpy*(for numerical operation and array based calculation), *Matplotlib*(for creating chartd and visualizations to support the EDA findings), *Seaborn*(for creating statistical visualizations and enhancing the appearance of charts),and *OpenPyXL*(to enable python to read, and write in the excel file).
+**Libraries** - *Pandas*(for data cleaning, transformation, aggregation, and analysis of dataset), *Numpy*(for numerical operation and array based calculation), *Matplotlib*(for creating chartd and visualizations to support the EDA findings), *Seaborn*(for creating statistical visualizations and enhancing the appearance of charts),and *OpenPyXL*(to enable python to read, and write in the excel file).
 
+**Miccrosoft Word** - used for compiling, formatting, and finalizing the analytical reports. 
+
+**Google Docs** - used for collaborative editing and reviewing the report with team members. 
