@@ -15,6 +15,7 @@ The repository contains my work for Excelerate Data Visualization trainee Intern
 ## Tool Used
 
 -**Microsoft Excel** - used mainly for data cleaning, data validation, and preliminary exploration of Opportunity dataset.
+
 -**Python 3.15.0** - used for data manipulation, Exploratory Data Analysis, and statistical calculations.
 -**Visual Studio (VS Code)** - the main coding enviroment for devoloping and running the analysis.
 -**Jupyter Notebook** - used to document the analysis workflow, combine code with explanations, and genrate outputs.
