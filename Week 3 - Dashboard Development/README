@@ -1,1 +1,39 @@
+# Week 3 – Dashboard Development
 
+## Overview
+
+This stage of the Excelerate Data Analytics Internship focused on transforming exploratory analysis into an interactive Power BI dashboard that communicates meaningful business insights.
+
+## Dashboard Highlights
+
+- Executive KPI Cards
+- Opportunity Creation Trend
+- Opportunity Distribution by Category
+- Application Distribution by Location
+- Average Opportunity Duration
+- Scholarship Distribution
+- Median Application Fee Analysis
+- Auto Approval Distribution
+- Current Type Distribution
+- Interactive Slicers (Category & Location)
+
+## Tools Used
+
+- Microsoft Power BI Desktop – Dashboard development and interactive visualisation
+- Microsoft Excel – Data preparation and validation
+- Microsoft Word – Insights report preparation
+- Google Docs – Report drafting and collaboration
+
+## Dashboard Files
+
+- Opportunity_Dashboard.pbix
+- Opportunity_Dashboard.pdf
+
+## Key Skills Demonstrated
+
+- Dashboard Design
+- Data Visualisation
+- Business Intelligence
+- KPI Development
+- Data Storytelling
+- Interactive Reporting
