@@ -13,6 +13,7 @@ Contains the Jupyter Notebook used for Exploratory Data Analysis together with t
 
 **Week 3 - Dashboard Development/**  
 Contains the interactive Microsoft Power BI dashboard (.pbix), dashboard PDF, dashboard screenshot, and the Week 3 Insights & Interpretation Report.
+_Link Here To Live Dashboard to Explore:_ https://app.powerbi.com/links/Xo_GLyP92_?ctid=b14d86f1-83ba-4b13-a702-b5c0231b9337&pbi_source=linkShare
 
 
 # Objectives
