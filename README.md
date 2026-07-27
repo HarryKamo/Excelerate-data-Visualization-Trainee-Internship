@@ -2,6 +2,12 @@
 
 This repository contains my work completed during the **Excelerate Data Visualization Trainee Internship**, where I served as the **Team Lead**. The project demonstrates the complete data analytics workflow, from data cleaning and exploratory data analysis to interactive dashboard development and business insight generation.
 
+### Project Deliverables
+- 📁 Cleaned Opportunity Dataset
+- 📈 Exploratory Data Analysis (Python)
+- 📊 Interactive Microsoft Power BI Dashboard 
+- 📄 Week 1, Week 2 and Week 3 Reports
+
 
 # Repository Structure
 
